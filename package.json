@@ -2,10 +2,10 @@
   "name": "library-reservation-system",
   "version": "1.0.0",
   "description": "OOP-Based Library Reservation System with Factory and Observer Design Patterns",
-  "main": "dist/Library.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "start": "tsc && node dist/Library.js",
+    "start": "tsc && node dist/index.js",
     "test": "jest"
   },
   "devDependencies": {
