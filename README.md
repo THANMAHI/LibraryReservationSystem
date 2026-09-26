@@ -83,7 +83,3 @@ The test suite in `tests/Library.test.ts` verifies:
 - Fine calculation accuracy ($0.50 per overdue day).
 - Full facade operations (`addBook`, `registerMember`, `findBook`, `findMember`).
 
----
-
-## License
-ISC
